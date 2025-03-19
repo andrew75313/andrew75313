@@ -1,7 +1,35 @@
-<div align="center">
-WELCOME TO Andrew75313 GitHub
+[![Gmail Badge](https://img.shields.io/badge/andrew75313@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:andrew75313@gmail.com)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://andrew75313.tistory.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D597F?style=flat-square&logo=&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%A7%84-%EA%B9%80-62999b258//)
+[![RocketPunch](https://img.shields.io/badge/RocketPunch-0854C1?style=flat-square&logo=rocket&logoColor=white)](https://www.rocketpunch.com/@andrew75313)
+
+
+<div align="left">
+<img src="https://github.com/andrew75313/andrew75313/assets/161192870/fab58010-bd43-4e85-bd24-b701ecd3002d" width="360"/>
 </div>
 
-<div align="center">
-<img src="https://github.com/andrew75313/andrew75313/assets/161192870/fab58010-bd43-4e85-bd24-b701ecd3002d" width="500"/>
+
+
+### Hello🤚 My name is **Andrew** 🐰
+
+Welcome to my GitHub!
+
+I am a Back-End Developer using in **Java** **Spring Framework**.
+
+I'm working on projects using **Spring Boot**🌿 and **MySQL**🛢️
+
+Feel free to reach out via the Social or Email banners at the top😉
+
+
+<br>
+
+
+### 💻Skills & Tools
+<div style="display: flex; gap: 10px;">
+<img src="https://img.shields.io/badge/Java-FF6A13?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwLDAsMjU2LDI1NiIgd2lkdGg9IjUwcHgiIGhlaWdodD0iNTBweCIgZmlsbC1ydWxlPSJub256ZXJvIj48ZyBmaWxsPSIjZmZmZmZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDUuMTIsNS4xMikiPjxwYXRoIGQ9Ik0yOC4xODc1LDBjMi43NSw2LjM2MzI4IC05Ljg1OTM3LDEwLjI5Mjk3IC0xMS4wMzEyNSwxNS41OTM3NWMtMS4wNzQyMiw0Ljg3MTA5IDcuNDkyMTksMTAuNTMxMjUgNy41LDEwLjUzMTI1Yy0xLjMwMDc4LC0yLjAxNTYyIC0yLjI1NzgxLC0zLjY3NTc4IC0zLjU2MjUsLTYuODEyNWMtMi4yMDcwMywtNS4zMDQ2OSAxMy40NDE0MSwtMTAuMTA1NDcgNy4wOTM3NSwtMTkuMzEyNXpNMzYuNTYyNSw4LjgxMjVjMCwwIC0xMS4wNjI1LDAuNzEwOTQgLTExLjYyNSw3Ljc4MTI1Yy0wLjI1LDMuMTQ4NDQgMi45MTAxNiw0LjgwNDY5IDMsNy4wOTM3NWMwLjA3NDIyLDEuODcxMDkgLTEuODc1LDMuNDM3NSAtMS44NzUsMy40Mzc1YzAsMCAzLjU0Njg4LC0wLjY3NTc4IDQuNjU2MjUsLTMuNTMxMjVjMS4yMzA0NywtMy4xNjc5NyAtMi4zOTg0NCwtNS4zMDg1OSAtMi4wMzEyNSwtNy44NDM3NWMwLjM1MTU2LC0yLjQyNTc4IDcuODc1LC02LjkzNzUgNy44NzUsLTYuOTM3NXpNMTkuMTg3NSwyNS4xNTYyNWMwLDAgLTEwLjEyNSwtMC4xNDQ1MyAtMTAuMTI1LDIuNzE4NzVjMCwyLjk5MjE5IDEzLjI1MzkxLDMuMjE0ODQgMjIuNzE4NzUsMS4zNzVjMCwwIDIuNTE1NjMsLTEuNzMwNDcgMy4xODc1LC0yLjM3NWMtNi4yMDMxMiwxLjI2NTYzIC0yMC4zNDM3NSwxLjQwNjI1IC0yMC4zNDM3NSwwLjMxMjVjMCwtMS4wMDc4MSA0LjU2MjUsLTIuMDMxMjUgNC41NjI1LC0yLjAzMTI1ek0zOC42NTYyNSwyNS4xNTYyNWMtMC45OTIxOSwwLjA3ODEzIC0yLjA2MjUsMC40NjA5NCAtMy4wMzEyNSwxLjE1NjI1YzIuMjgxMjUsLTAuNDkyMTkgNC4yMTg3NSwwLjkyMTg4IDQuMjE4NzUsMi41MzEyNWMwLDMuNjI1IC01LjI1LDcuMDMxMjUgLTUuMjUsNy4wMzEyNWMwLDAgOC4xMjUsLTAuOTIxODcgOC4xMjUsLTYuODc1YzAsLTIuNzAzMTIgLTEuODc4OTEsLTQuMDE1NjIgLTQuMDYyNSwtMy44NDM3NXpNMTYuNzUsMzAuNzE4NzVjLTEuNTU0NjksMCAtMy44NzUsMS4yMTg3NSAtMy44NzUsMi4zNzVjMCwyLjMyNDIyIDExLjY4NzUsNC4xMTMyOCAyMC4zNDM3NSwwLjcxODc1bC0zLC0xLjg0Mzc1Yy01Ljg2NzE5LDEuODc4OTEgLTE2LjY3MTg3LDEuMjY1NjMgLTEzLjQ2ODc1LC0xLjI1ek0xOC4xODc1LDM1LjkzNzVjLTIuMTI4OTEsMCAtMy41MzEyNSwxLjI4NTE2IC0zLjUzMTI1LDIuMjVjMCwyLjk4NDM4IDEyLjcxNDg0LDMuMjg1MTYgMTcuNzUsMC4yNWwtMy4xODc1LC0yLjAzMTI1Yy0zLjc2MTcyLDEuNTg5ODQgLTEzLjIwMzEyLDEuODMyMDMgLTExLjAzMTI1LC0wLjQ2ODc1ek0xMS4wOTM3NSwzOC42MjVjLTMuNDY4NzUsLTAuMDcwMzEgLTUuNzE4NzUsMS40ODgyOCAtNS43MTg3NSwyLjc4MTI1YzAsNi44NzUgMzUuNSw2LjU1ODU5IDM1LjUsLTAuNDY4NzVjMCwtMS4xNjc5NyAtMS4zNDc2NiwtMS43MzQzNyAtMS44NDM3NSwtMmMyLjkwMjM0LDYuNzE4NzUgLTI5LjA2MjUsNi4xODM1OSAtMjkuMDYyNSwyLjIxODc1YzAsLTAuOTAyMzQgMi4zNTE1NiwtMS43NjU2MiA0LjUzMTI1LC0xLjM0Mzc1bC0xLjg0Mzc1LC0xLjA2MjVjLTAuNTQyOTcsLTAuMDgyMDMgLTEuMDY2NDEsLTAuMTEzMjggLTEuNTYyNSwtMC4xMjV6TTQ0LjYyNSw0My4yNWMtNS4zOTg0NCw1LjExNzE5IC0xOS4wNzgxMiw2Ljk3MjY2IC0zMi44NDM3NSwzLjgxMjVjMTMuNzYxNzIsNS42MzI4MSAzMi43NzczNCwyLjQ3MjY2IDMyLjg0Mzc1LC0zLjgxMjV6Ij48L3BhdGg+PC9nPjwvZz48L3N2Zz4=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
 </div>
