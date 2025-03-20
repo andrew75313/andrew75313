@@ -20,8 +20,8 @@ I'm working on projects using **Spring Boot**🌿 and **MySQL**🛢️
 
 Feel free to reach out via the Social or Email banners at the top😉
 
-</div>
-<br>
+
+
 
 
 ### 💻Skills & Tools
