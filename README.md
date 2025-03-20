@@ -5,14 +5,14 @@
 
 
 <div align="center">
+
+### Welcome to my GitHub!
+
 <img src="https://github.com/andrew75313/andrew75313/assets/161192870/fab58010-bd43-4e85-bd24-b701ecd3002d" width="360"/>
-</div>
-
-
 
 ### Hello🤚 My name is **Andrew** 🐰
 
-Welcome to my GitHub!
+
 
 I am a Back-End Developer using in **Java** **Spring Framework**.
 
@@ -20,7 +20,7 @@ I'm working on projects using **Spring Boot**🌿 and **MySQL**🛢️
 
 Feel free to reach out via the Social or Email banners at the top😉
 
-
+</div>
 <br>
 
 
